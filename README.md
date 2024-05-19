@@ -2,7 +2,7 @@
 
 ## Data Analyst Internship
 
-*Projects*
+**Projects**
 
 [1. HR Data Analysis](https://github.com/karthikeyan-2005/Afame-Technologies/blob/main/Afame%20Technologies/HR_Data_Analysis/HR_Data_Analysis.ipynb)
 
